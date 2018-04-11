@@ -1,0 +1,4 @@
+<?php
+/*
+* Custom Larablog Helpers 
+*/
